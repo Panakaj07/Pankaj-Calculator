@@ -1,8 +1,8 @@
 import streamlit as st
 
-st.set_page_config(page_title="Pankaj Calculator", page_icon="🧮")
+st.set_page_config(page_title="Akshu Calculator", page_icon="🧮")
 
-st.markdown("# 🧮 Pankaj Calculator")
+st.markdown("# 🧮 Akshu Calculator")
 st.markdown("---")
 
 num1 = st.number_input("Enter the first number", value=0.0)
